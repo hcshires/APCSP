@@ -1,3 +1,3 @@
-# APCSP
+# AP Computer Science Principles - College Board AP Program
 
-My projects and work from taking AP Computer Science Principles at my High School
+My computer science projects and work from my sophomore year of high school
